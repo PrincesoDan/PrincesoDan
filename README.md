@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Princeso Dan 
 
 ## Sobre mí:
-- 🌟 Desarrollador apasionado por **[temas principales que te interesan]**.
+- 🌟 Desarrollador apasionado por **IA, webscraping, blockchain**.
 - 💻 Estudiante de **[nombre de tu institución]**.
 - ⚡ Interesado en **tecnologías descentralizadas, desarrollo web, o lo que desees mencionar**.
 
