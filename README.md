@@ -38,3 +38,14 @@
 
 ## 🌱 Currently Learning:
 - Diving deeper into **Rust** and exploring new technologies in **blockchain** and **web development**.
+
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincesoDan&layout=compact&langs_count=6)
+
+## 🍰 Language Usage Chart
+
+![Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrincesoDan)
+![Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrincesoDan)
+
