@@ -44,5 +44,5 @@
 ## 🍰 Language Usage 
 
 ![Languages by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrincesoDan)
-![Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrincesoDan)
+
 
