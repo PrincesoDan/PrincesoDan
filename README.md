@@ -26,7 +26,7 @@
 ## 🌟 Featured Projects:
 
 - 🕸️ **Web Scraping**: [ImpaktMedia](https://impaktmedia.cl/)  
-- 🌌 **Blockchain**: [Title DApp on Stellar](https://github.com/PrincesoDan/title-dapp)  
+- 🌌 **Blockchain**: [Soroswap-indexer](https://github.com/soroswap/subql)  
 - 🤖 **Prompt Engineering**: [Prompts IA](https://github.com/PrincesoDan/prompts)  
 
 ---
