@@ -32,7 +32,7 @@
 ---
 
 ## 📫 How to Reach Me?
-- 🌐 [LinkedIn](https://www.linkedin.com/in/danielandradesch/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/daniel-schwarze-fraile/)
 
 ---
 
