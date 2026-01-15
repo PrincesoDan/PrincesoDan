@@ -27,7 +27,7 @@
 
 - 🕸️ **Web Scraping**: [ImpaktMedia](https://impaktmedia.cl/)  
 - 🌌 **Blockchain**: [Soroswap-indexer](https://github.com/soroswap/subql)  
-- 🤖 **Prompt Engineering**: [Prompts IA](https://github.com/PrincesoDan/prompts)  
+- 🤖 **Data Analytics**: [Dune dashboards](https://github.com/PrincesoDan/prompts)  
 
 ---
 
