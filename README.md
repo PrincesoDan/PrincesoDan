@@ -3,8 +3,8 @@
 ## About Me:
 - 🏗️ **Civil Engineer** from the **University of Chile**.
 - 🎓 **Diploma in Agile Methodologies** at the **University of Playa Ancha**.
-- 💻 Transitioning from engineering to development: I’ve been working in **programming for 1 year**.
-- 🚀 Passionate about **Blockchain**, **Prompt Engineering**, and **Web Scraping with Python**.
+- 💻 Transitioning from engineering to development: I’ve been working in **programming for 2 year**.
+- 🚀 Passionate about **Blockchain**, **Prompt Engineering**,**Data analytics** and **Web Scraping with Python**.
 
 ---
 
