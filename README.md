@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![work tools](https://www.happyfreelancerfamilies.com/)
+- [work tools](https://www.happyfreelancerfamilies.com/)
 ---
 
 ## 🌟 Featured Projects:
